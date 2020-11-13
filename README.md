@@ -1,8 +1,8 @@
-# session-auth
+# session-identification
 
 This project is just for learning
 
-In this project I tried to do session authentication using DB
+In this project I tried to do session identification using DB
 
 ## Get started
 
